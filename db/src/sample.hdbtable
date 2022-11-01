@@ -1,4 +1,4 @@
 column table sample
 (
-	"id" int
+	"id" int 
 )
